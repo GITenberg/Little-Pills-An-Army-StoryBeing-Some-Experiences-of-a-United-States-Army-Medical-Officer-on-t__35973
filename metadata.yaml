@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38011'
     url: http://www.gutenberg.org/2009/agents/38011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35973#Little-Pills-An-Army-StoryBeing-Some-Experiences-of-a-United-States-Army-Medical-Officer-on-t_
 gutenberg_issued: '2011-04-26'
 gutenberg_type: Text
 identifiers:
