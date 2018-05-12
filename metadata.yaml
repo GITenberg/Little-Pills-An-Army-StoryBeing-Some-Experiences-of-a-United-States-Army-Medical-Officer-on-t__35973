@@ -1,0 +1,30 @@
+_repo: Little-Pills-An-Army-StoryBeing-Some-Experiences-of-a-United-States-Army-Medical-Officer-on-t__35973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKay, R. H. (Robert Henderson)
+    alias: McKay, Robert Henderson
+    birthdate: 1842
+    deathdate: 1926
+    gutenberg_agent_id: '38011'
+    url: http://www.gutenberg.org/2009/agents/38011
+description: ''
+gutenberg_issued: '2011-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35973'
+  lccn: '19006012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'United States. Army -- Military life'
+- !lcc 'F590.3'
+title: "Little Pills, an Army Story\r\nBeing Some Experiences of a United States Army\
+  \ Medical Officer on the Frontier Nearly a Half Century Ago"
+url: http://www.gutenberg.org/ebooks/35973
